@@ -6,7 +6,7 @@ An interactive map of World of Warcraft players. Players add themselves by city,
 
 > The source code for this project is private. This repo is a public write-up of what it is and how it was built.
 
-![FacesofWoW player map](screenshots/map.png)
+![FacesofWoW](banner.png)
 
 ## What it does
 
