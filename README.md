@@ -41,5 +41,5 @@ An interactive map of World of Warcraft players. Players add themselves by city,
 ## Contact
 
 Martin, Austin, TX
-LinkedIn: <add link>
-Email: <add email>
+LinkedIn: https://www.linkedin.com/in/martin-boogerd/
+Email: martin@criticalwp.com
