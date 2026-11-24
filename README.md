@@ -10,10 +10,13 @@ An interactive map of World of Warcraft players. Players add themselves by city,
 
 ## What it does
 
-- Shows WoW players on an interactive globe and flat map (beta)
+- Shows WoW players on an interactive globe and flat map (beta), which is the site's homepage
 - Takes no-account submissions through a simple form, with privacy in mind (city-level only)
 - Updates the map automatically, with no manual deploy step
-- Includes other WoW content on the same site: a Fact of the Day, a text-based idle game (Raid Log), and SEO guides
+- Includes other WoW projects on the same site:
+  - **Raid Log:** a text-based idle MMORPG with a lockout timer, gear, and streak tracking
+  - **Fact of the Day:** a daily WoW lore feature
+  - **Expansion FAQ:** SEO-focused guides for the current expansion
 
 ## How it works
 
@@ -43,3 +46,5 @@ An interactive map of World of Warcraft players. Players add themselves by city,
 Martin, Austin, TX
 LinkedIn: https://www.linkedin.com/in/martin-boogerd/
 Email: martin@criticalwp.com
+
+_Last updated: November 2026_
